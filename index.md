@@ -28,10 +28,12 @@ My first challenge was being able to understand the schematic itself! There seem
 
 Now I could move on to the coding portion of this milestone. After researching what Arduino IDE was for a bit and how to use it with an Arduino Uno, I installed Arduino IDE on my laptop, imported code for the servos from [this website](https://www.instructables.com/CatBot-Automated-Cat-Laser/), and then uploaded it onto my Arduino. The first thing I noticed when I ran the code was that one of my servos was moving, but the other one was not. I double and triple checked the code I imported and the connector wires, but both seemed to have no errors to me. However, it turns out I had wired the servos (very) incorrectly, and I had to rearrange a lot of connector wires on the breadboard. I followed the schematic shown below to rewire the breadboard, and learned that certain colored wires had to go in specific spots on the breadboard. Furthermore, I learned that part of the reason the servo was not moving was because I plugged a wire into a pin without the '~' symbol, which meant the servo was unable to receive power.
 
+![2Servo](https://user-images.githubusercontent.com/55466693/127706521-2404cc46-901f-4546-82e4-985a589488a3.PNG)
+
 After I made all these corrections, I plugged the Arduino Uno into my laptop and reuploaded the code that I had modified just a bit. Sure enough, both servos were now moving and the laser was shining bright as ever.
 I plan to modify the code for my third milestone so I can include a motion sensor in this project, but for now, I'm going to move on and work on the mechanical design of the cat laser.  
 
-![2Servo](https://user-images.githubusercontent.com/55466693/127706521-2404cc46-901f-4546-82e4-985a589488a3.PNG)
-
 
 [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1627865584/video_to_markdown/images/youtube--yVBORp45Mpw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/yVBORp45Mpw "Maya W First Milestone")
+
+![Project GIF](https://media.giphy.com/media/lYCUCDHz125aLytXLS/giphy.gif)
