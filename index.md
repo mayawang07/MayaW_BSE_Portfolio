@@ -34,4 +34,4 @@ I plan to modify the code for my third milestone so I can include a motion senso
 ![2Servo](https://user-images.githubusercontent.com/55466693/127706521-2404cc46-901f-4546-82e4-985a589488a3.PNG)
 
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
+[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1627865584/video_to_markdown/images/youtube--yVBORp45Mpw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/yVBORp45Mpw "Maya W First Milestone")
