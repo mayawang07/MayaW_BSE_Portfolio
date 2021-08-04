@@ -24,7 +24,7 @@ After finalizing the design, I began measuring and cutting the cardboard I had t
 
 The first challenge I encountered while assembling was that the zipties provided in my project kit were too big to fit through the pre-drilled holes in the Arduino Uno. I looked around my house for string, but I only managed to find one spool of yarn that was also too thick to fit through the Arduino holes. After a while, I found a black rubber band hanging on my desktop lamp and decided to give it a try. I cut it into smaller pieces so it wouldn't be too loose and thankfully, it easily fit through the hole! Unfortunately, the next challenge I encountered was getting said rubber band to stay in place, because standard office tape wasn't strong enough to hold it down. To solve this, I used packaging tape instead and added multiple layers of it. The rubber band was very secure after that, which meant my Arduino had successfully been secured on the base of my project.
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
+{:target="_blank" rel="noopener"}
 
 # First Milestone
 
