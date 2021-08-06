@@ -16,6 +16,9 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
+
+![Project GIF2](https://media.giphy.com/media/DOFTsxJBEMPqCmVqU0/giphy.gif)
+
 My second milestone was designing and building the servo tilt/pan. I didn't have any spare metal pieces in my house or in my project kit, so I decided to just use cardboard, zipties, and a hot glue gun. I spent a day or two just brainstorming and sketching (and sometimes trashing) design ideas. I came up with the design shown below after drawing some inspiration from [this design](https://content.instructables.com/ORIG/FBT/XOJD/GZDY7AI1/FBTXOJDGZDY7AI1.jpg?auto=webp&frame=1&width=1024&fit=bounds&md=d3c243628d753cd08d7d95415e2988c7) and using it as a reference. After finalizing the design, I began measured and cut the cardboard I had to make the parts. Sticking the breadboard on the cardboard base wasn't too hard; I simply peeled off the adhesive protective paper on its backside and placed it on its assigned area on the board. However, the Arduino Uno definitely gave me a bit of trouble.
 
 ![Laser Design](https://user-images.githubusercontent.com/55466693/128218813-3d14a4e9-810f-4f41-8b1a-e47befc82af1.jpg)
@@ -30,7 +33,7 @@ I am now done with my project! For my third milestone, I am planning to add some
 
 # First Milestone
 
-![Project GIF](https://media.giphy.com/media/lYCUCDHz125aLytXLS/giphy.gif)
+![Project GIF1](https://media.giphy.com/media/lYCUCDHz125aLytXLS/giphy.gif)
 
 My first milestone was comprised of three objectives: getting the laser to shine, wiring the Arduino, and coding the servos. It sounds simple, but it was actually very challenging for me as I had no experience with electronics prior to Bluestamp Engineering. I spent most of the first 3 days of camp researching all the different parts in my kit and figuring out what they did. Eventually, I concluded I could get my laser diode to shine using the Arduino Uno and several connector wires. Getting the laser to light up wasn't *too* hard, and after I did, I decided it was time to wire up everything else. I used [this schematic](https://content.instructables.com/ORIG/FJ9/DRW4/GZDY7AGV/FJ9DRW4GZDY7AGV.jpg) as a reference.
 
