@@ -29,6 +29,7 @@ I did a few test runs (using my cat as an unknowing test subject) and realized I
 
 I am now done with my project! For my third milestone, I am planning to add some personal modifications to the cat laser (including a sensor!) and overall just make sure everything works for Demo Day.
 
+[![Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1628532198/video_to_markdown/images/youtube--1yDAhxlwrHc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=1yDAhxlwrHc "Maya W Second Milestone")
 {:target="_blank" rel="noopener"}
 
 # First Milestone
