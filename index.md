@@ -5,7 +5,7 @@ Provide your cat hours of fun using my project, the Auto Cat Laser! It was built
 |:--:|:--:|:--:|:--:|
 | Maya Wang | Lowell High School | Mechanical Engineering | Rising Junior
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Headstone Image]
 
 # Introduction
 Hey there! My name is Maya and I'm a rising high school junior with a passion for engineering - I'm a part of my school's FRC robotics team and love to build LEGOs in my (somewhat limited) free time. I have an adorable tuxedo cat named Kit Kat, and she is actually the reason why I chose the auto cat laser as my project. Building the auto cat laser would be a good way for me to learn the engineering design process and how to use various electronics but also, if I successfully complete this project, my cat would be able to use it every day if she wanted to!
