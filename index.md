@@ -5,7 +5,7 @@ Provide your cat hours of fun using my project, the Auto Cat Laser! It was built
 |:--:|:--:|:--:|:--:|
 | Maya Wang | Lowell High School | Mechanical Engineering, Computer Science | Rising Junior
 
-![Headstone Image]
+![Headstone Image](https://user-images.githubusercontent.com/55466693/129125784-ee142175-2ae4-4c00-9f42-c60d212fd069.jpg)
 
 # Introduction
 Hey there! My name is Maya and I'm a rising junior with a passion for engineering - I'm a part of my school's FRC robotics team and love to build LEGOs in my (somewhat limited) free time. I have an adorable tuxedo cat named Kit Kat, and she is actually the reason why I chose the auto cat laser as my project. Building the auto cat laser would be a good way for me to learn the engineering design process and how to use various electronics but also, if I successfully complete this project, my cat would be able to use it every day if she wanted to! When I'm not busy with homework or doing robotics-related activities, I enjoy reading, playing tennis, and watching various TV shows.
@@ -19,6 +19,8 @@ For my final milestone, I added some personal modifications to my project! The H
 One challenge I ran into after I uploaded and ran the code was that the sensor constantly displayed "Out of range" on the serial monitor despite the fact I held my hand out directly in front of the sensor. I looked over my code a few times and discovered no errors, which led me to believe my issue was in the wiring. Sure enough, I discovered that the VCC connector wire had to be plugged into the 5V pin on the Arduino in order for the sensor to work, which caused another problem for me because the laser diode's connector wire was already in that spot. After a few trial-and-error tests, I solved the issue by inserting the laser diode's connector wire into a positive hole on the breadboard. Another challenge I encountered was trying to combine and integrate the sensor's code into the cat laser's code. I do have some experience with a few programming languages which is why I was able to read the code, but I had never written any C++ code out by hand; therefore, I was initially very confused and lost. I researched C++'s syntax but got a lot of complicated explanations in return, so I asked my instructor to help me debug and troubleshoot the code. While doing this, I learned that formatting the code correctly is very important in order to reduce confusion and you cannot add a "void" statement inside of another "void" statement.
 
 I also made the laser able to turn on and off, using instructions and code from [this similar project](https://www.arduino.cc/en/Tutorial/BuiltInExamples/Blink). When I plug the Arduino into a power source, the laser will be off, but as soon as the sensor detects motion in its assigned range, it will turn on. Wiring up the Arduino wasn't hard, but integrating this code with the sensor's was challenging for me. For example, sometimes the sensor would detect an object ~95cm away, but the laser would still turn on and the servos would start moving. I went over the code with my instructor and realized I had made a few careless mistakes in the syntax and some lines of code were not in the right spots. After troubleshooting for a while, I got the code to work, meaning my customized cat laser was now completely finished!
+
+![IMG_2550](https://user-images.githubusercontent.com/55466693/129125860-2d32ddf0-8f40-45b8-930b-243bc3bb3e8c.jpeg)
 
 {:target="_blank" rel="noopener"}
 
