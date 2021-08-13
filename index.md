@@ -1,5 +1,5 @@
 ﻿# Automated Cat Laser
-Provide your cat hours of fun using my project, the Auto Cat Laser! It was built using an Arduino Uno R3, two Micro Servos, a breadboard, and an HC-SR04 Ultrasonic Sensor. My modified code allows it to turn on when the sensor detects an object within an assigned vincinity, and for the servos to stop operating if there are no objects detected nearby.
+Provide your cat hours of fun using my project, the Auto Cat Laser! It was built using an Arduino Uno R3, two SG90 9g Micro Servos, a solderless breadboard, and an HC-SR04 Ultrasonic Sensor. My modified code allows it to turn on when the sensor detects an object within an assigned vicinity, and for the servos to stop operating if there are no objects detected nearby.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
